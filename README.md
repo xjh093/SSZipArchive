@@ -33,6 +33,8 @@ Reason: image not found
 ---
 
 # Release
-[1.8.1](https://github.com/ZipArchive/ZipArchive/releases/tag/v1.8.1)
+[1.8.1](https://github.com/ZipArchive/ZipArchive/releases/tag/v1.8.1) 
+
+with `base configure` is OK! 
 
 ---
